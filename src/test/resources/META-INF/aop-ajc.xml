@@ -1,0 +1,5 @@
+<aspectj>
+    <aspects>
+        <aspect name="io/ecom/ui/utils/ScreenShootAspect"/>
+    </aspects>
+</aspectj>
